@@ -1,0 +1,19 @@
+.tartalom
+{
+    width:70%;
+}
+table
+{
+    position: absolute;
+    margin-left:60%;
+    /*border:solid 1px black;*/
+    
+ 
+}
+th
+{
+    text-align: left;
+    margin-left:1%;
+    color:white;
+    /*border:solid 1px black;*/
+}

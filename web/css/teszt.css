@@ -1,0 +1,133 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+body
+{
+  overflow-x: hidden;
+}
+.table1
+{
+    margin-left:25%;
+    
+    position: absolute;
+    max-width: 50%;
+}
+h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left:2%;
+   
+    
+   
+    
+}
+.hover-zoomin a {
+    display: block;
+    position: relative;
+    overflow: hidden;
+  }
+  .hover-zoomin img {
+    width: 100%;
+    height: auto;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+  }
+  .hover-zoomin:hover img {
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+  img
+  {
+    max-width:15%;
+    border:1px solid black;
+    border-radius: 10%;
+    margin-top:15%;
+  }
+ .kep
+  {
+    
+    max-width: 20%;
+    position: absolute;
+    margin-left:20%;
+  }
+  .jobbkep
+{
+  position: absolute;
+  margin-left:65%;
+  width: 318px;  
+}
+.bal
+{
+  position: absolute;
+  padding-top:1%;
+  margin-left:4%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  
+}
+.jobb
+{
+  position: absolute;
+  padding-top:1%;
+  margin-left:1.5%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+   
+}
+
+.listadiv
+{
+ /* border: 1px solid black;*/
+  width:20%;
+  height:80%;
+  float: right;
+  margin-top: -10%;
+  margin-right: -5%;
+}
+.fooldal
+{
+margin-left: 38%;
+}
+#plussz
+{
+  margin-bottom: -1%;
+  max-height: 25px;
+}
+#mentes
+{
+  float:right;
+  font-size: small;
+}
+#torles
+{
+  margin-left:2%;
+  float:right;
+  font-size: small;
+ 
+}
+
+.listakiiras
+{
+ /* border: 1px solid black;*/
+  margin-left:auto;
+  margin-right:auto;
+  width:50%;
+  height:100%
+}
+.span1
+{
+  font-size: large;
+  font-weight: bold;
+}
+#kesz
+{
+  font-size: small;
+}
+
